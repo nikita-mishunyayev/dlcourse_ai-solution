@@ -2,6 +2,10 @@
 
 Сам курс: [dlcourse.ai](http://dlcourse.ai).
 
+___
+***Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something.***
+___
+
 ## Задания
 
 Задания расположены в `assignments`.
