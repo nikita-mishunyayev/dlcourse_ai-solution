@@ -1,4 +1,4 @@
-# Решение и материалы курса dlcourse.ai
+# Решение и Материалы курса dlcourse.ai
 
 Сам курс: [dlcourse.ai](http://dlcourse.ai).
 
